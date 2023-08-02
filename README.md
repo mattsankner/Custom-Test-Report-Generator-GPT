@@ -38,11 +38,15 @@ Make sure you have Flask and the other dependencies installed, as outlined in th
 
     pip install -r requirements.txt
 
-4. Run the Flask application:
+4. Type your OpenAI key in app.py:
+
+    https://platform.openai.com/account/api-keys
+
+6. Run the Flask application:
 
     python app.py
 
-5. Open your browser and navigate to `http://localhost:5000/chat_page` to access the chat interface.
+7. Open your browser and navigate to `http://localhost:5000/chat_page` to access the chat interface.
 
 ## Contributing
 
