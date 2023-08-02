@@ -7,7 +7,7 @@ import PyPDF2
 app = Flask(__name__, static_url_path='', static_folder='static')
 
 # OpenAI API key providing
-openai.api_key = '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'
+openai.api_key = 'YOUR_API_KEY_HERE'
 
 #a route to the home page of the server, returning hello world
 @app.route('/')
