@@ -2,8 +2,7 @@
 
 ## Description
 
-This project demonstrates a Flask-based web application that integrates with OpenAI's API to generate test summary documents based on user inputs. Users can upload documents that describe a template for creation (PDF, DOCX) and provide requests to an AI model that returns a structured and detailed response based on the document uploaded and the data the user provides. This was created during an internship at Insulet Corporation for use case of creating test case documentation for software. Goal: upload desired test documentation requirements/structure through a pdf/docx and upload test case data and a description of the test through a prompt; GPT generates an accurate test documentation based on uploaded information. The video demonstration is uploaded to the repo for viewing.
-
+This project demonstrates a Flask-based web application that integrates with OpenAI's API to generate test summary documents based on user inputs. Users can upload documents that describe a template for creation (PDF, DOCX) and provide requests to an AI model that returns a structured and detailed response based on the document uploaded and the data the user provides. This was created during an internship at Insulet Corporation for use case of creating test case documentation for software. Goal: upload desired test documentation requirements/structure through a pdf/docx and upload test case data and a description of the test through a prompt; GPT generates an accurate test documentation based on uploaded information.
 ## Technologies
 
 - Flask (Backend)
