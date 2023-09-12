@@ -1,4 +1,4 @@
-# OpenAI-Flask-Test-Document-Generator
+# Test-Document-Generator
 
 ## Description
 
