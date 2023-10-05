@@ -1,4 +1,4 @@
-# Test-Document-Generator
+# Structured-Document-Generator
 
 ## Description
 
