@@ -18,6 +18,9 @@ Generates accurate and custom-structured unit test documentation based on upload
 - Interactive Chat: Users can chat with the AI model and receive structured replies.
 - Themed Design: A simple and elegant design, with styled chat bubbles.
 
+![Screenshot of my app](/AppScreenshot.png)
+
+
 ## Setup & Usage
 
 ### Requirements
