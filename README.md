@@ -12,14 +12,13 @@ Generates accurate and custom-structured unit test documentation based on upload
 - GPT 3.5 (AI Model Integration)
 - PyPDF2, python-docx (File Handling)
 
+![Screenshot of my app](/AppScreenshot.png)
+
 ## Features
 
 - Document Uploading: Users can upload a document in PDF or DOCX format.
 - Interactive Chat: Users can chat with the AI model and receive structured replies.
 - Themed Design: A simple and elegant design, with styled chat bubbles.
-
-![Screenshot of my app](/AppScreenshot.png)
-
 
 ## Setup & Usage
 
