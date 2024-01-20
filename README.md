@@ -1,14 +1,15 @@
-# Structured-Document-Generator
+# Custom-Test-Report-Generator-GPT
 
 ## Description
 
-This project demonstrates a Flask-based web application that integrates with OpenAI's API to generate test summary documents based on user inputs. Users can upload documents that describe a template for creation (PDF, DOCX) and provide requests to an AI model that returns a structured and detailed response based on the document uploaded and the data the user provides. This was created during an internship at Insulet Corporation for use case of creating test case documentation for software. Goal: upload desired test documentation requirements/structure through a pdf/docx and upload test case data and a description of the test through a prompt; GPT generates an accurate test documentation based on uploaded information.
+Generates accurate and custom-structured unit test documentation based on uploaded user info. User inputs desired test documentation structure through a pdf/docx, uploads test case data, and a description of the test through natural language. Created during a software developer internship at Insulet Corporation for use case of creating test case documentation for software.
+
 ## Technologies
 
 - Flask (Backend)
 - HTML, CSS (Frontend Styling)
 - JavaScript (Client-Side Logic)
-- OpenAI (AI Model Integration)
+- GPT 3.5 (AI Model Integration)
 - PyPDF2, python-docx (File Handling)
 
 ## Features
